@@ -1,35 +1,39 @@
-# 🐧 Mr. Penguin's 
-
-Welcome to **Mr. Penguin's** GitHub profile! A passionate Front-End Developer who lives in the icy paradise of the South Pole 🧊 and thrives on crafting beautiful, responsive, and clean web designs.
 
 ---
 
-## 🛠️ Skills
+# 🐧 **Mr. Penguin's - Front-End Developer**  
 
-### **Core Front-End Development Skills**
-- **HTML5**: Building solid and semantic website structures.
-- **CSS3**: Crafting visually stunning and responsive layouts.
-- **JavaScript**: Adding interactivity and dynamic features to bring websites to life.
-- **Bootstrap**: Quick and efficient development of responsive designs.
-- **Tailwind CSS**: Writing clean, utility-first code for sleek interfaces.
+Welcome to **Mr. Penguin's** GitHub profile! 🧊  
+A passionate **Front-End Developer** who thrives on crafting elegant, responsive, and efficient web applications.  
+
+I specialize in **modern front-end technologies** and love bringing **creative UI/UX** to life! 🎨  
 
 ---
 
-### **Version Control & Collaboration**
-- **Git**: Managing projects with version control to track every change.
-- **GitHub**: Collaborating on projects and sharing code with the global developer community.
+## 🛠️ **Tech Stack & Skills**  
+
+### **🌐 Front-End Development**
+- **HTML5** → Semantic, accessible, and SEO-friendly structure.  
+- **CSS3 & SASS** → Beautiful, responsive, and scalable UI styling.  
+- **JavaScript & TypeScript** → Interactive, dynamic, and scalable applications.  
+- **Bootstrap & TailwindCSS** → Fast and efficient responsive designs.  
+- **AngularJS** → Component-driven and scalable web applications.  
+
+### **🛠️ Tools & Workflow**
+- **Git & GitHub** → Version control and open-source collaboration.  
+- **Figma** → UI/UX prototyping and design systems.  
+---
+
+## 🌍 **About Me**  
+- 🐧 **Passionate Front-End Developer** with an eye for detail and a love for clean code.  
+- ❄️ **Adaptable & Resilient** → Just like surviving in the South Pole!  
+- 💡 Constantly **learning, improving, and pushing boundaries** in web development.  
 
 ---
 
-## 🌟 About Me
-- 🐧 A **dedicated Front-End Developer** with a knack for problem-solving and a love for elegant design.
-- ❄️ Living in the South Pole has taught me to stay cool under pressure—literally!  
-- 🌍 Always eager to collaborate, learn, and contribute to exciting projects.
+## 📫 **Let's Connect!**  
 
----
+📩 **Email:** [muhammdvvn0@gmail.com](mailto:muhammdvvn0@gmail.com)  
+💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/muhammad-mif-550a132b1/)  
 
-## 🔍 How to Find Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-mif-550a132b1/)  
-- 📧 Gmail: **muhammdvvn0@gmail.com**
-
-💡 **Let’s build something amazing together!**
+💡 **Let’s build something incredible together!** 🚀
